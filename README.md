@@ -38,3 +38,4 @@ Currently the scoreboard displays the chefs in the order of their account balanc
 You are free to change any or all of the code and/or add new code as you see fit although you shouldn't really need to touch more than what is mentioned above to complete the assignment.
 
 Six points (2 for the belt view, 3 for the chef UI, and 1 for the scoreboard) will be reserved for the "feel" of the new UI components you are developing in addition to its basic functionality. In other words, if your UI components are glitchy, very oddly laid out, or otherwise difficult to use, you may lose these points even if they technically provide the desired functionality. The standard for this will be low and we are not looking for anything particularly sophisticated, just reasonable.
+# Sushi-Game
